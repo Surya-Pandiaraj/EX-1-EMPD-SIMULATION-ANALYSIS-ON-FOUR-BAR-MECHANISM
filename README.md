@@ -1,1 +1,4 @@
-# EX-1-EMPD-To-simulate-the-displacement-analysis-Velocity-analysis-Acceleration-analysis
+### NAME: SURYA P <br>
+### REG NO: 212224230280
+
+# EX 1 : 
